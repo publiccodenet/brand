@@ -15,4 +15,12 @@ Or over 2 lines, broken into 2 lines of 2 words:
 
 ## Mark
 
+Files:
+
 * [SVG](mark.svg)
+* [PNG 128 × 128 square](mark-128w128h.png)
+* [PNG 904 × 1042](mark-904w1042h.png)
+* [PNG 1042 × 1042 square](mark-1042w1042h.png)
+* [PNG 5424 × 6252](mark-5424w6252h.png)
+* [EPS](mark.eps)
+* [PDF](mark.pdf)

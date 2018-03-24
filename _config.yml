@@ -1,4 +1,5 @@
 title: The brand of the Foundation For Public Code
+url: https://brand.publiccode.net
 
 plugins:
   - jekyll-remote-theme

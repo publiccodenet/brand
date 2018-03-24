@@ -1,0 +1,5 @@
+title: The brand of the Foundation For Public Code
+
+plugins:
+  - jekyll-remote-theme
+remote_theme: publiccodenet/jekyll-theme

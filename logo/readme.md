@@ -1,6 +1,6 @@
 # Logo
 
-The Logo is made up out of the [mark](#mark) and the name of the organisation in Muli Bold.
+The Logo is made up out of the [mark](#mark) and the name of the organisation in [Muli Bold](../typography/readme.md).
 
 ## Name
 

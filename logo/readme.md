@@ -15,6 +15,8 @@ Or over 2 lines, broken into 2 lines of 2 words:
 
 ## Mark
 
+> <img src="mark.svg" height="100">
+
 Files:
 
 * [SVG](mark.svg)
@@ -24,3 +26,21 @@ Files:
 * [PNG 5424 × 6252](mark-5424w6252h.png)
 * [EPS](mark.eps)
 * [PDF](mark.pdf)
+
+## Mark with name over one line
+
+> <img src="mark-and-name-over-one-line.svg" height="100">
+
+Files:
+
+* [SVG](mark-and-name-over-one-line.svg)
+* [PNG 7833 × 1043](mark-and-name-over-one-line-7833w1043h.png)
+
+## Mark with name over two lines
+
+> <img src="mark-and-name-over-two-lines.svg" height="100">
+
+Files:
+
+* [SVG](mark-and-name-over-two-lines.svg)
+* [PNG 7833 × 1043](mark-and-name-over-two-lines-3082w1042h.png)

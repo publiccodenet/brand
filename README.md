@@ -12,6 +12,7 @@ The visual identity of the Foundation For Public Code is meant to be institution
 
 * [Logo](logo/)
 * [Typography](typography/)
+* [Colours](colours/)
 
 ## License
 

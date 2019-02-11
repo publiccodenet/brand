@@ -1,6 +1,6 @@
 # Brand
 
-Brand assets and design components for the Foundation For Public Code
+Brand philosophy, assets and design components for the Foundation For Public Code.
 
 ## Assets
 

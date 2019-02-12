@@ -43,6 +43,12 @@ Or, when the name is broken over 2 lines the lines should contain 2 words per li
 > Foundation For  
 > Public Code
 
+This means in HTML the name can be, when used in headers and footers as a logo, best used with non-breaking spaces where the lines should not be broken:
+
+```html
+Foundation&nbsp;For Public&nbsp;Code
+```
+
 See also: [Logo](../logo/)
 
 > <img src="../logo/mark-and-name-over-one-line.svg" height="50">

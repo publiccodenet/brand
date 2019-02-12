@@ -15,6 +15,6 @@ The visual identity of the Foundation For Public Code is meant to be institution
 * [Typography](typography/)
 * [Colours](colours/)
 
-## License
+## Licence
 
 © Foundation For Public Code, 2018

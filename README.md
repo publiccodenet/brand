@@ -11,6 +11,7 @@ The visual identity of the Foundation For Public Code is meant to be institution
 ## Guidelines and assets
 
 * [Logo](logo/)
+* [Name](name/)
 * [Typography](typography/)
 * [Colours](colours/)
 

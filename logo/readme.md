@@ -22,15 +22,11 @@ Files:
 * [EPS](mark.eps)
 * [PDF](mark.pdf)
 
-## Name
+## With the name
 
-The name of the Foundation For Public Code in the logo is written either over 1 line:
+See also: [Name](../name/)
 
 ### Over 1 line
-
-The name on 1 line in full:
-
-> Foundation For Public Code
 
 > <img src="mark-and-name-over-one-line.svg" height="100">
 
@@ -39,13 +35,7 @@ Files:
 * [SVG](mark-and-name-over-one-line.svg)
 * [PNG 7833 × 1043](mark-and-name-over-one-line-7833w1043h.png)
 
-
 ### Over 2 lines
-
-When the name is broken over 2 lines the lines should contain the following contents on each line:
-
-> Foundation For  
-> Public Code
 
 > <img src="mark-and-name-over-two-lines.svg" height="100">
 

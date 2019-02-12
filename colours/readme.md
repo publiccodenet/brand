@@ -10,4 +10,4 @@ Links to unvisited pages should be underlined blue (CSS colour `blue`), links to
 
 ## 'Off-page' backgrounds
 
-In order to guide the user, webpages might take up only part of the screen. Areas outside of the page can have a darker white background color (CSS colour `#FDFDFD`) in order to guide the user's eyes to the content.
+In order to guide the user, webpages might take up only part of the screen. Areas outside of the page can have a darker white background color (CSS colour `#FDFDFD` or `whitesmoke`) in order to guide the user's eyes to the content.

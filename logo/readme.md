@@ -4,7 +4,7 @@ The Logo is made up out of the [mark](#mark) and the name of the organisation in
 
 ## Mark
 
-The mark of the Foundation For Public Code may be used with the name or by itself. When used by itself make sure to position it so it can stand out from its surroundings.
+The mark of the Foundation for Public Code may be used with the name or by itself. When used by itself make sure to position it so it can stand out from its surroundings.
 
 > <img src="mark.svg" height="100">
 

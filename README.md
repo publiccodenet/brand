@@ -1,12 +1,12 @@
 # Brand
 
-Brand philosophy, assets and design components for the Foundation For Public Code.
+Brand philosophy, assets and design components for the Foundation for Public Code.
 
 ## Philosophy
 
-The brand of the Foundation For Public Code is meant to inspire trust for the digital age.
+The brand of the Foundation for Public Code is meant to inspire trust for the digital age.
 
-The visual identity of the Foundation For Public Code is meant to be institutional as well as contemporary. A simple identity that is strong and timeless whilst embracing the affordances granted by the digital transformation.
+The visual identity of the Foundation for Public Code is meant to be institutional as well as contemporary. A simple identity that is strong and timeless whilst embracing the affordances granted by the digital transformation.
 
 ## Guidelines and assets
 
@@ -17,4 +17,4 @@ The visual identity of the Foundation For Public Code is meant to be institution
 
 ## Licence
 
-© Foundation For Public Code, 2018
+© Foundation for Public Code, 2018

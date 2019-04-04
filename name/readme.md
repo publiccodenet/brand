@@ -1,8 +1,8 @@
 # Name
 
-The name of the organisation is: **Foundation For Public Code**.
+The name of the organisation is: **Foundation for Public Code**.
 
-In sentences it can be mentioned as: **the Foundation For Public Code**.
+In sentences it can be mentioned as: **the Foundation for Public Code**.
 
 The name is always written with a first capital on every word as to signify every word is meaningful and important.
 
@@ -20,9 +20,9 @@ Every word in the name has a meaning, together they should explain what the Foun
 
 A foundation is something that can be built upon, something that is the bedrock for a development.
 
-### For
+### for
 
-The Foundation For Public Code is actively working on Public Code and the infrastructures that are necessary to produce it.
+The Foundation for Public Code is actively working on Public Code and the infrastructures that are necessary to produce it.
 
 ### Public
 
@@ -34,19 +34,19 @@ Both policy – civic code – as well as software – source code.
 
 ## Printing and breaking
 
-The name of the Foundation For Public Code should be printed either over 1 line:
+The name of the Foundation for Public Code should be printed either over 1 line:
 
-> Foundation For Public Code
+> Foundation for Public Code
 
 Or, when the name is broken over 2 lines the lines should contain 2 words per line, so the following:
 
-> Foundation For  
+> Foundation for  
 > Public Code
 
 This means in HTML the name can be, when used in headers and footers as a logo, best used with non-breaking spaces where the lines should not be broken:
 
 ```html
-Foundation&nbsp;For Public&nbsp;Code
+Foundation&nbsp;for Public&nbsp;Code
 ```
 
 See also: [Logo](../logo/)

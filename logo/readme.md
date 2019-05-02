@@ -33,7 +33,7 @@ See also: [Name](../name/)
 Files:
 
 * [SVG](mark-and-name-over-one-line.svg)
-* [PNG 7833 × 1043](mark-and-name-over-one-line-7833w1043h.png)
+* [PNG 1815 × 1042](mark-and-name-over-one-line-1815w1042h.png)
 
 ### Over 2 lines
 
@@ -42,4 +42,4 @@ Files:
 Files:
 
 * [SVG](mark-and-name-over-two-lines.svg)
-* [PNG 7833 × 1043](mark-and-name-over-two-lines-3082w1042h.png)
+* [PNG 3082 × 1048](mark-and-name-over-two-lines-3082w1048h.png)

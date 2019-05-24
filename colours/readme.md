@@ -1,6 +1,6 @@
 # Colours
 
-The colour palette for the Foundation for Public Code is built around the principle of black text (CSS colour `white`) on a white background (CSS colour `black`).
+The colour palette for the Foundation for Public Code is built around the principle of black text (CSS colour `black`) on a white background (CSS colour `white`).
 
 ## Links
 

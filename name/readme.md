@@ -54,3 +54,7 @@ See also: [Logo](../logo/)
 > <img src="../logo/mark-and-name-over-one-line.svg" height="50">
 
 > <img src="../logo/mark-and-name-over-two-lines.svg" height="100">
+
+## Legal name
+
+The Foundation for Public Code is incorporated as a member owned association (vereniging met volledige rechtsbevoegdheid) under Dutch law named "Foundation for Public Code vereniging".

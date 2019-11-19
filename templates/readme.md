@@ -16,6 +16,15 @@ Can be used in several different occasions, for example signage or workshop mate
 * [Make your own nametag sign](make-nametag.svg)
 * [Lunch sign](lunch-right.svg)
 
+### Portrait
+Can be used in several different occasions, for example signage or workshop materials.
+* [svg](A4-portrait.svg)
+* [png (transparent background)](A4-portrait-transparent.png)
+* [png (white background)](A4-portrait-white.png)
+
+#### Examples
+* [Kitchen sign](kitchen.svg)
+
 ## 1080p (HD)
 Can be used in presentations and other digital materials.
 * [svg](HD.svg)

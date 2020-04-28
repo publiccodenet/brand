@@ -11,4 +11,4 @@ The Foundation For Public Code uses the Muli font for headings and the logo. Mul
 
 ## Body text: system native
 
-For all body text we try to use the fonts native to the system they are viewed on. For older systems or print either Muli can be used or a more appropriate font for the publication.
+For all body text we try to use the fonts native to the system they are viewed on. For older systems or print either [Inter](https://rsms.me/inter/) or [Muli](https://github.com/googlefonts/MuliFont) can be used.

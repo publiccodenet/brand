@@ -16,6 +16,8 @@ The visual identity of the Foundation for Public Code is meant to be institution
 * [Colours](colours/)
 * [Templates](templates/)
 * [Illustrations](https://github.com/publiccodenet/illustrations)
+* [Music](music/)
+* [Video](video/)
 
 ## License
 

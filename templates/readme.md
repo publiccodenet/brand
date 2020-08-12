@@ -30,3 +30,5 @@ Can be used in presentations and other digital materials.
 * [svg](HD.svg)
 * [png (transparent background)](HD-transparent.png)
 * [png (white background)](HD-white.png)
+### Implementations
+* [Livestream introduction template]() (as background when using [Bumper Scripter](https://github.com/publiccodenet/bumperscripter))

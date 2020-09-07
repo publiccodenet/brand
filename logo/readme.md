@@ -34,6 +34,7 @@ Files:
 
 * [SVG](mark-and-name-over-one-line.svg)
 * [PNG 1815 × 1042](mark-and-name-over-one-line-1815w1042h.png)
+* [SVG with white text](mark-and-name-over-one-line-white.svg)
 
 ### Over 2 lines
 
@@ -43,3 +44,4 @@ Files:
 
 * [SVG](mark-and-name-over-two-lines.svg)
 * [PNG 3082 × 1048](mark-and-name-over-two-lines-3082w1048h.png)
+* [SVG with white text](mark-and-name-over-one-line-white.svg)

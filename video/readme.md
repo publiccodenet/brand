@@ -1,6 +1,6 @@
 # Video
 
-Here are some music files that are meant to reinforce the philosophy of the brand.
+Here are some video files that are meant to reinforce the philosophy of the brand.
 
 ## Bumper
 

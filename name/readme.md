@@ -4,8 +4,6 @@ The name of the organisation is: **Foundation for Public Code**.
 
 In sentences it can be mentioned as: **the Foundation for Public Code**.
 
-The name is always written with a first capital on every word as to signify every word is meaningful and important.
-
 ## Written out in full
 
 The name is always written out in full and never made into an acronym or abbreviated. If a shorter handle is necessary for technical reasons `publiccode.net` or `publiccodenet` is used. 

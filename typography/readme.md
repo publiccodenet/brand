@@ -6,7 +6,7 @@
 
 The Foundation For Public Code uses the Mulish font for headings and the logo. Mulish is licenced with the Open Font License
 
-* [Mulish on Google Fonts](https://fonts.google.com/specimen/Mulish?query=muli)
+* [Mulish on Google Fonts](https://fonts.google.com/specimen/Mulish)
 * [GitHub repository for the Mulish Font](https://github.com/googlefonts/mulish)
 
 ## Body text: system native

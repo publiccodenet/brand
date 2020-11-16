@@ -1,13 +1,13 @@
 # Typography
 
-## Headings and logo: Muli
+## Headings and logo: Mulish
 
 ![Logo](../logo/mark-and-name-over-two-lines.svg)
 
-The Foundation For Public Code uses the Muli font for headings and the logo. Muli is licenced with the Open Font License
+The Foundation For Public Code uses the Mulish font for headings and the logo. Mulish is licenced with the Open Font License
 
-* [Muli on Google Fonts](https://fonts.google.com/specimen/Muli)
-* [GitHub repository for the Muli Font](https://github.com/vernnobile/MuliFont)
+* [Mulish on Google Fonts](https://fonts.google.com/specimen/Mulish)
+* [GitHub repository for the Mulish Font](https://github.com/googlefonts/mulish)
 
 ## Body text: system native
 

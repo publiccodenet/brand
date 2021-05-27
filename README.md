@@ -21,4 +21,4 @@ The visual identity of the Foundation for Public Code is meant to be institution
 
 ## License
 
-© Foundation for Public Code, 2018
+© Foundation for Public Code, 2021

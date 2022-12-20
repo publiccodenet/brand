@@ -2,6 +2,8 @@
 
 Brand philosophy, assets and design components for the Foundation for Public Code.
 
+[![pages-build-deployment](https://github.com/publiccodenet/brand/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/publiccodenet/brand/actions/workflows/pages/pages-build-deployment)
+
 ## Philosophy
 
 The brand of the Foundation for Public Code is meant to inspire trust for the digital age.

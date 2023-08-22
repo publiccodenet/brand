@@ -1,4 +1,4 @@
-#Stewardship
+# Stewardship
 
 To show that we are stewarding a codebase, these badges can be used in the footer of a website for that codebase.
 The badge should link to the overview page for the codebase on our website so that the claim is verifiable.
